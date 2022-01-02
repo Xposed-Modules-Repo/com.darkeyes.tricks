@@ -19,5 +19,6 @@ Here is what the module can do:
 - Less frequent notifications
 - Screen off notifications only
 - Change the carrier text
+- Bypass Outlook device policy
 
 There is a simple user interface that can be launched through Xposed Manager to choose what mods that you want. However, a reboot is needed every time you change a setting.
