@@ -12,6 +12,7 @@ Here is what the module can do:
 - Hide VPN notification
 - Hide "Network may be monitored"
 - Hide the build version in the QS when developer options are enabled (Android 10+)
+- Double tap to sleep on statusbar or lockscreen (Android 12)
 - Volume keys control cursor
 - Volume keys skip track
 - Power key toggle torch (with proximity check)
