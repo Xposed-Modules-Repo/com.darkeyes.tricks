@@ -1,4 +1,4 @@
-This module is designed for Android 8.0, 8.1, 9, 10, 11 and 12. Some tricks might not work on every version though. It has been tested on stock Android 12 on a Pixel 5. You can try it on other ROMs, but don't report bugs if something doesn't work.
+This module is designed for Android 8.0, 8.1, 9, 10, 11, 12 and 12.1. Some tricks might not work on every version though. It has been tested on stock Android 12.1 on a Pixel 6. You can try it on other ROMs, but don't report bugs if something doesn't work.
 
 Here is what the module can do:
 
@@ -12,7 +12,7 @@ Here is what the module can do:
 - Hide VPN notification
 - Hide "Network may be monitored"
 - Hide the build version in the QS when developer options are enabled (Android 10+)
-- Double tap to sleep on statusbar or lockscreen (Android 12)
+- Double tap to sleep on statusbar or lockscreen (Android 12+)
 - Volume keys control cursor
 - Volume keys skip track
 - Power key toggle torch (with proximity check)
@@ -21,7 +21,7 @@ Here is what the module can do:
 - Screen off notifications only
 - Change the carrier text
 - Bypass Outlook device policy
-- Quick unlock (Android 12)
-- Show battery duration estimate on expanded QS (Android 12)
+- Quick unlock (Android 12+)
+- Show battery duration estimate on expanded QS (Android 12+)
 
 There is a simple user interface that can be launched through Xposed Manager to choose what mods that you want. However, a reboot is needed every time you change a setting.
