@@ -21,9 +21,10 @@ Here is what the module can do:
 - Screen off notifications only
 - Change the carrier text
 - Bypass Outlook device policy
-- Quick unlock (Android 12 and 12.1 only)
+- Quick unlock (Android 12+)
 - Show battery duration estimate on expanded QS (Android 12+)
 - Force small clock on lockscreen (Android 12 and 12.1 only)
 - Adjust height for back gesture (Android 12+)
+- Expanded notifications (Android 12+)
 
 There is a simple user interface that can be launched through Xposed Manager to choose what mods that you want. However, a reboot is needed every time you change a setting.
