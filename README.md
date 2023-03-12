@@ -1,4 +1,4 @@
-This module is designed for Android 8.0, 8.1, 9, 10, 11, 12, 12.1 and 13. Some tricks might not work on every version though. It has been tested on stock Android 13 on a Pixel 6. You can try it on other ROMs, but don't report bugs if something doesn't work.
+This module is designed for Android 8.0, 8.1, 9, 10, 11, 12, 12.1 and 13. Some tricks might not work on every version though. It has been tested on stock Android 13 on a Pixel 7 Pro. You can try it on other ROMs, but don't report bugs if something doesn't work.
 
 Here is what the module can do:
 
