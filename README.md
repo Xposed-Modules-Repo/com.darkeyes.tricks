@@ -26,7 +26,7 @@ Here is what the module can do:
 - Quick unlock (Android 12+ but not Android 14)
 - Show battery duration estimate on expanded QS (Android 12+)
 - Force small clock on lockscreen (Android 12 and 12.1 only)
-- Adjust height for back gesture (Android 12+ but not Android 14)
+- Adjust height for back gesture (Android 12+)
 - Expanded notifications (Android 12+ but not Android 14)
 
 There is a simple user interface that can be launched through Xposed Manager to choose what mods that you want. A reboot is needed every time you change a setting for version 2.31 and older. Starting with version 3.0, all settings can be applied at runtime (except for Show 4G and Hide LTE+/4G+ which still require a reboot).
